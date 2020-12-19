@@ -169,10 +169,14 @@ button:hover {
   display:flex;
   justify-content:center;
   z-index:-1;
-  height:500px;
-  width:100%;
+  height:100%;
+  width:auto;
   background-color:#20bf55;
   border-radius:12px;
+}
+#codepen-screen {
+  width: 100%;
+  height: auto;
 }
 #codepen-cover-button {
   display:flex;
