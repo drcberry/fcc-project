@@ -179,6 +179,7 @@ button:hover {
   height: auto;
 }
 #codepen-cover-button {
+  margin-top:20%;
   display:flex;
   justify-content:center;
   position:absolute;
